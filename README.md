@@ -1,3 +1,4 @@
+// Author: Peter Nassrat // Date: 01/2023 //
 # CG-Project
 Computer Graphics Project:
 This is a Computer Graphics project built with a WebGL system and Javascript and HTML languages as a webpage executable on browsers.
