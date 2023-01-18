@@ -1,6 +1,6 @@
 // Author: Peter Nassrat // Date: 01/2023 //
 # CG-Project
-Computer Graphics Project:
+Computer Graphics Project:\
 This is a Computer Graphics project built with a WebGL system and Javascript and HTML languages as a webpage executable on browsers.
 To open the page you should download all files and open merry-christmas.html file with any browser.
 If there is any problem, Please ensure that the browser that you use is up to date, or use another browser.
