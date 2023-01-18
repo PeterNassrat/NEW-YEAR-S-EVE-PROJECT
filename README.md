@@ -1,5 +1,5 @@
 // Author: Peter Nassrat // Date: 01/2023 //
-# NEW-YEAR-S-EVE-PROJECT
+# NEW YEAR'S EVE PROJECT
 Computer Graphics Project:\
 This is a Computer Graphics project built with a WebGL system and Javascript and HTML languages as a webpage executable on browsers.\
 To open the page you should download all files and open merry-christmas.html file with any browser.\
